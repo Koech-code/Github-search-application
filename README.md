@@ -31,3 +31,4 @@ If interested with this project, feel free to follow the bellow instructions;
 $ git clone https://github.com/Koech-code/Github-search-application.git
 
 ```
+- open it in your preferred code editor e.g ` code .` for vs code or `atom .` for atom.
