@@ -18,7 +18,7 @@ This is a project that consumes my github
 
 ## Set up instructions
 
-If interested with this project, feel free to follow the bellow instructions;
+If interested with this project, feel free to follow the bellow instructions to 🤝 contribute to;
 - Install angular cli using `npm install -g @angular/cli`.
   You can also install nvm to easily control the angular version you need.
   (check version by running `ng --version` on your terminal).
@@ -32,3 +32,11 @@ $ git clone https://github.com/Koech-code/Github-search-application.git
 
 ```
 - open it in your preferred code editor e.g ` code .` for vs code or `atom .` for atom.
+
+
+## Author
+
+👤 **Author**
+
+- GitHub: [@Koech-code](https://github.com/Koech-code)
+
