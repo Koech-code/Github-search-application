@@ -40,3 +40,10 @@ $ git clone https://github.com/Koech-code/Github-search-application.git
 
 - GitHub: [@Koech-code](https://github.com/Koech-code)
 
+
+## Acknowledgments
+
+- I would like to give a loud thanks to Moringa school, for giving me the chance to study software development.
+
+## 📝 License
+
