@@ -12,6 +12,7 @@ import { NotfoundComponent } from './notfound/notfound.component';
 import { UserserviceService } from './userservice.service';
 import { HighlightDirective } from './highlight.directive';
 import { DatePipePipe } from './date-pipe.pipe';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -29,6 +30,7 @@ import { DatePipePipe } from './date-pipe.pipe';
     FormsModule,
     AppRoutingModule,
     HttpClientModule,
+    BrowserAnimationsModule
   ],
   providers: [UserserviceService],
   bootstrap: [AppComponent]

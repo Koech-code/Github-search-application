@@ -24,7 +24,7 @@ If interested with this project, feel free to follow the bellow instructions;
   (check version by running `ng --version` on your terminal).
 - Install node js 
 - Create directory where to work with your projects. 
-  `cd Documents/`
+  `e.g cd Documents/`
 - Fork or clone the repo using the below link
 
 ```
