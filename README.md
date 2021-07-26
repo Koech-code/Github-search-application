@@ -47,3 +47,4 @@ $ git clone https://github.com/Koech-code/Github-search-application.git
 
 ## 📝 License
 
+This project is [MIT](LICENCE) licensed.
