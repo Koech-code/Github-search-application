@@ -19,6 +19,15 @@ This is a project that consumes my github
 ## Set up instructions
 
 If interested with this project, feel free to follow the bellow instructions;
-- Install angular version 12 (check version by `ng --version`)
-- Install node js
+- Install angular cli using `npm install -g @angular/cli`.
+  You can also install nvm to easily control the angular version you need.
+  (check version by running `ng --version` on your terminal).
+- Install node js 
+- Create directory where to work with your projects. 
+  `cd Documents/`
+- Fork or clone the repo using the below link
 
+```
+$ git clone https://github.com/Koech-code/Github-search-application.git
+
+```
