@@ -9,7 +9,7 @@
                 <img src="{{user.avatar_url}}" alt="">
               </div> 
               <div class="card-body">
-                  <span  class="name"><i class="fa fa-user" style="font-size:20px"></i> &nbsp;{{user.login}}</span> <a href="{{user.html_url}}"><button class="btn-outline-success btn btn-sm"><i class="fa fa-github" style="font-size:20px"></i> &nbsp; <span id="profile">Github</span> </button></a>
+                  <span  class="name"><i class="fa fa-user" style="font-size:20px"></i> &nbsp;{{user.login}}<br></span> <a href="{{user.html_url}}"><button class="btn-outline-success btn btn-sm"><i class="fa fa-github" style="font-size:20px"></i> &nbsp; <span id="profile">Github</span> </button></a>
               </div>
             </div>
             </div>
@@ -24,7 +24,7 @@
                 <hr>
                 <p> <i class="fa fa-users"style="font-size:18px"></i>&nbsp;&nbsp; People following you :&nbsp;&nbsp; <span class="follow">{{user.followers}}</span></p>
                 <hr>
-                <p><i class="fa fa-clock-o" style="font-size:18px"></i>&nbsp;&nbsp; Account created :&nbsp;&nbsp; <span class="datejoined">{{user.created_at | datePipe}}</span></p>
+                <p><i class="fa fa-clock-o" style="font-size:18px"></i>&nbsp;&nbsp; Account created :&nbsp;&nbsp; <span class="datejoined"> {{user.created_at | datePipe}}</span></p>
                 <hr>
               </div>
             </div>  
